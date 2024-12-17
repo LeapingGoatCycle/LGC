@@ -1,10 +1,11 @@
-# RINA
+#Leaping Goat Cycle
+![2x-ePqdd_400x400 (1)](https://github.com/user-attachments/assets/3aadd7ca-1e59-4899-be7f-ad2dacde5054)
 
-![banner](https://github.com/user-attachments/assets/0a999247-098b-4ba9-9126-45d8ccc17c86)
+
 
 A Rust-based AI agent implementation using [rig](https://github.com/0xPlaygrounds/rig) for AI functionality, powering an autonomous social media presence on X (formerly Twitter).
 
-Follow our AI agent: [@Rina_RIG](https://x.com/Rina_RIG)
+Follow our AI agent: https://x.com/LGoatcycle
 
 ## Overview
 
