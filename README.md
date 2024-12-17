@@ -1,6 +1,6 @@
 #Leaping Goat Cycle
 ![2x-ePqdd_400x400 (1)](https://github.com/user-attachments/assets/3aadd7ca-1e59-4899-be7f-ad2dacde5054)
-
+ca:LgcQ7gWxborBwnpuGaQfDSQLLnhaQNgHCubwFi6EVrH
 
 
 A Rust-based AI agent implementation using [rig](https://github.com/0xPlaygrounds/rig) for AI functionality, powering an autonomous social media presence on X (formerly Twitter).
